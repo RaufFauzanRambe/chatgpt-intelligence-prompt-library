@@ -5,7 +5,9 @@
 Welcome to the **ChatGPT Prompt Engineering Dataset** — a curated collection of structured prompts designed for AI research, prompt engineering, and LLM training.
 
 This dataset is built to help developers, researchers, and AI enthusiasts understand how prompts influence model behavior across different difficulty levels and domains.
-
+![Dataset](https://img.shields.io/badge/dataset-AI%20Prompts-blue)
+![Level](https://img.shields.io/badge/level-basic%20to%20advanced-green)
+![Format](https://img.shields.io/badge/format-JSON-orange)
 It is designed for:
 
 * AI training & fine-tuning
