@@ -1,0 +1,112 @@
+{
+  "category": "basic",
+  "level": "beginner",
+  "description": "Simple prompts for everyday tasks and basic interactions with ChatGPT",
+  "prompts": [
+    {
+      "id": "basic_001",
+      "title": "Simple Greeting",
+      "prompt": "Hello! How are you today?",
+      "use_case": "Starting a conversation",
+      "tags": ["greeting", "conversation", "casual"]
+    },
+    {
+      "id": "basic_002",
+      "title": "Definition Request",
+      "prompt": "What is the definition of [word]?",
+      "use_case": "Learning new vocabulary",
+      "tags": ["definition", "learning", "vocabulary"]
+    },
+    {
+      "id": "basic_003",
+      "title": "Simple Summary",
+      "prompt": "Can you summarize the following text in one sentence: [text]",
+      "use_case": "Quick text summarization",
+      "tags": ["summarization", "reading", "comprehension"]
+    },
+    {
+      "id": "basic_004",
+      "title": "Basic Translation",
+      "prompt": "Translate the following sentence from English to [language]: [sentence]",
+      "use_case": "Simple translation tasks",
+      "tags": ["translation", "language", "multilingual"]
+    },
+    {
+      "id": "basic_005",
+      "title": "Spell Check",
+      "prompt": "Please check the spelling and grammar of this sentence: [sentence]",
+      "use_case": "Writing assistance",
+      "tags": ["grammar", "spelling", "writing"]
+    },
+    {
+      "id": "basic_006",
+      "title": "Simple Math",
+      "prompt": "What is [number] plus [number]?",
+      "use_case": "Basic arithmetic",
+      "tags": ["math", "arithmetic", "calculation"]
+    },
+    {
+      "id": "basic_007",
+      "title": "List Generation",
+      "prompt": "Make a list of [number] items related to [topic]",
+      "use_case": "Brainstorming and ideation",
+      "tags": ["list", "brainstorming", "ideas"]
+    },
+    {
+      "id": "basic_008",
+      "title": "Simple Question",
+      "prompt": "What is [topic]?",
+      "use_case": "General knowledge queries",
+      "tags": ["question", "knowledge", "information"]
+    },
+    {
+      "id": "basic_009",
+      "title": "Email Template",
+      "prompt": "Write a short email about [topic] to [recipient]",
+      "use_case": "Email composition",
+      "tags": ["email", "writing", "communication"]
+    },
+    {
+      "id": "basic_010",
+      "title": "Weather Inquiry",
+      "prompt": "What should I wear if it's [weather condition] outside?",
+      "use_case": "Daily planning assistance",
+      "tags": ["weather", "clothing", "planning"]
+    },
+    {
+      "id": "basic_011",
+      "title": "Recipe Request",
+      "prompt": "Give me a simple recipe for [dish]",
+      "use_case": "Cooking assistance",
+      "tags": ["recipe", "cooking", "food"]
+    },
+    {
+      "id": "basic_012",
+      "title": "Movie Recommendation",
+      "prompt": "Can you recommend a [genre] movie for me to watch?",
+      "use_case": "Entertainment suggestions",
+      "tags": ["movie", "entertainment", "recommendation"]
+    },
+    {
+      "id": "basic_013",
+      "title": "Simple Explanation",
+      "prompt": "Explain [concept] in simple terms",
+      "use_case": "Learning complex topics",
+      "tags": ["explanation", "learning", "simplification"]
+    },
+    {
+      "id": "basic_014",
+      "title": "Synonym Request",
+      "prompt": "What are some synonyms for the word [word]?",
+      "use_case": "Vocabulary expansion",
+      "tags": ["synonym", "vocabulary", "writing"]
+    },
+    {
+      "id": "basic_015",
+      "title": "Time Zone Conversion",
+      "prompt": "If it's [time] in [city], what time is it in [another city]?",
+      "use_case": "Time zone calculations",
+      "tags": ["time", "timezone", "conversion"]
+    }
+  ]
+}
