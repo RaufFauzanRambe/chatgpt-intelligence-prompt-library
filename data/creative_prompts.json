@@ -1,0 +1,147 @@
+{
+  "category": "creative",
+  "level": "all levels",
+  "description": "Prompts designed to spark creativity, storytelling, and imaginative content generation",
+  "prompts": [
+    {
+      "id": "creative_001",
+      "title": "Story Opening",
+      "prompt": "Write an engaging opening paragraph for a [genre] story that begins with: \"[opening line]\". Create intrigue and establish the tone.",
+      "use_case": "Fiction writing",
+      "tags": ["story", "fiction", "opening"]
+    },
+    {
+      "id": "creative_002",
+      "title": "Character Development",
+      "prompt": "Create a detailed character profile for a [role/archetype] character named [name]. Include: backstory, personality traits, motivations, fears, and a character arc outline.",
+      "use_case": "Character creation",
+      "tags": ["character", "development", "storytelling"]
+    },
+    {
+      "id": "creative_003",
+      "title": "World Building",
+      "prompt": "Create a detailed world description for a [type of world] setting. Include: geography, culture, political system, technology level, and unique features that make this world distinctive.",
+      "use_case": "Worldbuilding",
+      "tags": ["worldbuilding", "setting", "fantasy", "sci-fi"]
+    },
+    {
+      "id": "creative_004",
+      "title": "Poetry Composition",
+      "prompt": "Write a [type of poem] about [subject]. Use [specific technique or style] and ensure the poem evokes [desired emotion].",
+      "use_case": "Poetry writing",
+      "tags": ["poetry", "creative writing", "expression"]
+    },
+    {
+      "id": "creative_005",
+      "title": "Dialogue Writing",
+      "prompt": "Write a dialogue between [character A] and [character B] who are [relationship/context]. The conversation should reveal [hidden information/character development] while maintaining natural speech patterns.",
+      "use_case": "Dialogue creation",
+      "tags": ["dialogue", "character", "conversation"]
+    },
+    {
+      "id": "creative_006",
+      "title": "Plot Twist Development",
+      "prompt": "Take the following story premise: [premise] and develop three unexpected plot twists that recontextualize earlier events. Explain how each twist changes the story's meaning.",
+      "use_case": "Plot development",
+      "tags": ["plot twist", "storytelling", "narrative"]
+    },
+    {
+      "id": "creative_007",
+      "title": "Metaphor Generation",
+      "prompt": "Generate 10 original metaphors for [abstract concept]. Each metaphor should approach the concept from a different angle and evoke different emotional responses.",
+      "use_case": "Figurative language",
+      "tags": ["metaphor", "language", "imagery"]
+    },
+    {
+      "id": "creative_008",
+      "title": "Screenplay Scene",
+      "prompt": "Write a screenplay scene for [situation] featuring [characters]. Include proper screenplay formatting, action descriptions, dialogue, and subtext.",
+      "use_case": "Screenwriting",
+      "tags": ["screenplay", "script", "film"]
+    },
+    {
+      "id": "creative_009",
+      "title": "Advertising Slogan",
+      "prompt": "Create 5 memorable advertising slogans for [product/service]. Each slogan should appeal to a different target demographic or highlight a different benefit.",
+      "use_case": "Copywriting",
+      "tags": ["advertising", "slogan", "marketing"]
+    },
+    {
+      "id": "creative_010",
+      "title": "Alternate History",
+      "prompt": "Create an alternate history scenario where [historical divergence point]. Describe how this change would affect [specific aspects of society/history] up to the present day.",
+      "use_case": "Speculative fiction",
+      "tags": ["alternate history", "speculation", "narrative"]
+    },
+    {
+      "id": "creative_011",
+      "title": "Song Lyrics",
+      "prompt": "Write lyrics for a [genre] song about [theme]. Include verse-chorus structure, a bridge, and use [specific lyrical technique].",
+      "use_case": "Songwriting",
+      "tags": ["lyrics", "song", "music"]
+    },
+    {
+      "id": "creative_012",
+      "title": "Flash Fiction",
+      "prompt": "Write a complete flash fiction story in exactly [word count] words about [topic]. The story should have a clear beginning, middle, and twist ending.",
+      "use_case": "Short fiction",
+      "tags": ["flash fiction", "short story", "concise"]
+    },
+    {
+      "id": "creative_013",
+      "title": "Satire Writing",
+      "prompt": "Write a satirical piece about [topic/issue]. Use irony, exaggeration, and humor to critique while making a serious underlying point.",
+      "use_case": "Satirical writing",
+      "tags": ["satire", "humor", "commentary"]
+    },
+    {
+      "id": "creative_014",
+      "title": "Children's Story",
+      "prompt": "Write a children's story for ages [age range] about [theme/character]. Include a clear moral lesson, engaging language, and a gentle, age-appropriate tone.",
+      "use_case": "Children's literature",
+      "tags": ["children", "story", "moral"]
+    },
+    {
+      "id": "creative_015",
+      "title": "Mystery Setup",
+      "prompt": "Create the setup for a mystery story involving [crime/situation]. Include the crime scene, initial clues, suspects with motives, and a red herring.",
+      "use_case": "Mystery writing",
+      "tags": ["mystery", "suspense", "clues"]
+    },
+    {
+      "id": "creative_016",
+      "title": "Science Fiction Concept",
+      "prompt": "Develop a science fiction concept based on [scientific principle or technology]. Explore its implications for society, potential conflicts, and how it changes human experience.",
+      "use_case": "Sci-fi development",
+      "tags": ["science fiction", "concept", "technology"]
+    },
+    {
+      "id": "creative_017",
+      "title": "Monologue Writing",
+      "prompt": "Write a dramatic monologue for a [type of character] who is [emotional state/situation]. The monologue should reveal character depth and include a turning point.",
+      "use_case": "Dramatic writing",
+      "tags": ["monologue", "drama", "performance"]
+    },
+    {
+      "id": "creative_018",
+      "title": "Brand Story",
+      "prompt": "Create a compelling brand story for [company/product]. Include origin story, mission, values, and emotional connection with the target audience.",
+      "use_case": "Brand storytelling",
+      "tags": ["branding", "story", "marketing"]
+    },
+    {
+      "id": "creative_019",
+      "title": "Comedy Sketch",
+      "prompt": "Write a comedy sketch about [premise]. Include setup, escalation, and a punchline. Create distinct characters with conflicting perspectives.",
+      "use_case": "Comedy writing",
+      "tags": ["comedy", "sketch", "humor"]
+    },
+    {
+      "id": "creative_020",
+      "title": "Descriptive Passage",
+      "prompt": "Write a vivid descriptive passage of [setting/object] using all five senses. Focus on showing rather than telling, and create an immersive experience for the reader.",
+      "use_case": "Descriptive writing",
+      "tags": ["description", "imagery", "sensory"]
+    }
+  ]
+}
