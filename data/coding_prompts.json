@@ -1,0 +1,147 @@
+{
+  "category": "coding",
+  "level": "all levels",
+  "description": "Programming and software development prompts ranging from basic coding tasks to complex system implementations",
+  "prompts": [
+    {
+      "id": "code_001",
+      "title": "Function Implementation",
+      "prompt": "Write a function in [language] that [functionality description]. Include input parameters, return type, and handle edge cases appropriately.",
+      "use_case": "Function development",
+      "tags": ["function", "programming", "basics"]
+    },
+    {
+      "id": "code_002",
+      "title": "Algorithm Explanation",
+      "prompt": "Explain the [algorithm name] algorithm step by step. Provide a code implementation in [language] with comments explaining each part.",
+      "use_case": "Algorithm learning",
+      "tags": ["algorithm", "explanation", "implementation"]
+    },
+    {
+      "id": "code_003",
+      "title": "Code Debugging",
+      "prompt": "Debug the following code and explain what's wrong: [code snippet]. Provide the corrected version with explanations for each fix.",
+      "use_case": "Debugging assistance",
+      "tags": ["debugging", "error fixing", "troubleshooting"]
+    },
+    {
+      "id": "code_004",
+      "title": "Code Refactoring",
+      "prompt": "Refactor the following code to improve readability, performance, and maintainability: [code snippet]. Explain the changes made and why they improve the code.",
+      "use_case": "Code quality improvement",
+      "tags": ["refactoring", "clean code", "optimization"]
+    },
+    {
+      "id": "code_005",
+      "title": "API Design",
+      "prompt": "Design a RESTful API for [system description]. Include: endpoints, request/response formats, authentication method, error handling, and example requests.",
+      "use_case": "API development",
+      "tags": ["API", "REST", "backend", "design"]
+    },
+    {
+      "id": "code_006",
+      "title": "Database Schema Design",
+      "prompt": "Design a database schema for [application description]. Include: entity-relationship diagram description, table structures, relationships, indexes, and normalization considerations.",
+      "use_case": "Database design",
+      "tags": ["database", "schema", "SQL", "design"]
+    },
+    {
+      "id": "code_007",
+      "title": "Unit Test Writing",
+      "prompt": "Write comprehensive unit tests for the following function: [function code]. Include test cases for normal inputs, edge cases, and error conditions using [testing framework].",
+      "use_case": "Testing",
+      "tags": ["testing", "unit tests", "quality assurance"]
+    },
+    {
+      "id": "code_008",
+      "title": "Code Review Request",
+      "prompt": "Review the following code for best practices, potential bugs, security vulnerabilities, and performance issues: [code snippet]. Provide specific recommendations with explanations.",
+      "use_case": "Code review",
+      "tags": ["code review", "best practices", "security"]
+    },
+    {
+      "id": "code_009",
+      "title": "Design Pattern Implementation",
+      "prompt": "Implement the [design pattern name] pattern in [language] for [use case scenario]. Explain when this pattern is appropriate and its benefits.",
+      "use_case": "Design patterns",
+      "tags": ["design pattern", "architecture", "OOP"]
+    },
+    {
+      "id": "code_010",
+      "title": "SQL Query Optimization",
+      "prompt": "Optimize the following SQL query for better performance: [query]. Explain the performance issues and how your optimization addresses them.",
+      "use_case": "Database optimization",
+      "tags": ["SQL", "optimization", "performance"]
+    },
+    {
+      "id": "code_011",
+      "title": "Frontend Component",
+      "prompt": "Create a [framework] component for [component description]. Include: component structure, props definition, state management, styling, and example usage.",
+      "use_case": "Frontend development",
+      "tags": ["frontend", "component", "UI", "framework"]
+    },
+    {
+      "id": "code_012",
+      "title": "Error Handling Strategy",
+      "prompt": "Design an error handling strategy for [application type] in [language]. Include: error types, error propagation, logging approach, user-facing error messages, and recovery mechanisms.",
+      "use_case": "Error handling",
+      "tags": ["error handling", "logging", "reliability"]
+    },
+    {
+      "id": "code_013",
+      "title": "CI/CD Pipeline Configuration",
+      "prompt": "Create a CI/CD pipeline configuration for [project type] using [CI/CD tool]. Include: build stages, testing steps, deployment strategy, and environment configurations.",
+      "use_case": "DevOps",
+      "tags": ["CI/CD", "DevOps", "automation", "deployment"]
+    },
+    {
+      "id": "code_014",
+      "title": "Regular Expression",
+      "prompt": "Write a regular expression to match [pattern description]. Explain how the regex works and provide examples of strings that match and don't match.",
+      "use_case": "Pattern matching",
+      "tags": ["regex", "pattern matching", "validation"]
+    },
+    {
+      "id": "code_015",
+      "title": "Microservice Design",
+      "prompt": "Design a microservice architecture for [system description]. Include: service boundaries, communication patterns, data management, fault tolerance, and scalability considerations.",
+      "use_case": "Microservices",
+      "tags": ["microservices", "architecture", "distributed systems"]
+    },
+    {
+      "id": "code_016",
+      "title": "GraphQL Schema",
+      "prompt": "Design a GraphQL schema for [application description]. Include: types, queries, mutations, subscriptions, and resolvers structure.",
+      "use_case": "GraphQL development",
+      "tags": ["GraphQL", "API", "schema", "backend"]
+    },
+    {
+      "id": "code_017",
+      "title": "Security Audit Checklist",
+      "prompt": "Create a security audit checklist for [application type]. Include: authentication, authorization, input validation, data protection, and common vulnerability checks.",
+      "use_case": "Security auditing",
+      "tags": ["security", "audit", "vulnerability"]
+    },
+    {
+      "id": "code_018",
+      "title": "Performance Optimization",
+      "prompt": "Analyze and optimize the performance of the following code/application: [code/description]. Identify bottlenecks and provide specific optimization techniques.",
+      "use_case": "Performance tuning",
+      "tags": ["performance", "optimization", "profiling"]
+    },
+    {
+      "id": "code_019",
+      "title": "Technical Documentation",
+      "prompt": "Write technical documentation for the following code/API: [code/description]. Include: overview, installation, usage examples, API reference, and troubleshooting guide.",
+      "use_case": "Documentation",
+      "tags": ["documentation", "technical writing", "API"]
+    },
+    {
+      "id": "code_020",
+      "title": "Code Translation",
+      "prompt": "Translate the following code from [source language] to [target language]. Maintain the same functionality and adapt to the target language's idioms and best practices.",
+      "use_case": "Code migration",
+      "tags": ["translation", "migration", "languages"]
+    }
+  ]
+}
