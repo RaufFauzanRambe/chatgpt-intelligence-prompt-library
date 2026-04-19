@@ -1,0 +1,113 @@
+
+{
+  "category": "intermediate",
+  "level": "intermediate",
+  "description": "Moderately complex prompts requiring deeper analysis and structured responses",
+  "prompts": [
+    {
+      "id": "inter_001",
+      "title": "Compare and Contrast",
+      "prompt": "Compare and contrast [topic A] and [topic B]. List at least 3 similarities and 3 differences.",
+      "use_case": "Analytical comparison",
+      "tags": ["comparison", "analysis", "critical thinking"]
+    },
+    {
+      "id": "inter_002",
+      "title": "Pros and Cons Analysis",
+      "prompt": "Create a comprehensive pros and cons list for [decision/choice]. Include at least 5 points for each side.",
+      "use_case": "Decision making support",
+      "tags": ["analysis", "decision", "evaluation"]
+    },
+    {
+      "id": "inter_003",
+      "title": "Step-by-Step Guide",
+      "prompt": "Create a detailed step-by-step guide on how to [task]. Include tips and warnings for each step.",
+      "use_case": "Instructional content creation",
+      "tags": ["guide", "tutorial", "instructions"]
+    },
+    {
+      "id": "inter_004",
+      "title": "Email with Context",
+      "prompt": "Write a professional email to [recipient] regarding [situation]. The tone should be [formal/friendly/apologetic]. Context: [additional details]",
+      "use_case": "Professional communication",
+      "tags": ["email", "professional", "communication"]
+    },
+    {
+      "id": "inter_005",
+      "title": "Problem Analysis",
+      "prompt": "Analyze the following problem and provide a structured solution: [problem description]. Break down the problem, identify root causes, and suggest actionable solutions.",
+      "use_case": "Problem solving",
+      "tags": ["problem-solving", "analysis", "solutions"]
+    },
+    {
+      "id": "inter_006",
+      "title": "Meeting Summary",
+      "prompt": "Summarize the following meeting notes into key points, action items, and decisions made: [meeting notes]",
+      "use_case": "Meeting documentation",
+      "tags": ["summary", "meeting", "documentation"]
+    },
+    {
+      "id": "inter_007",
+      "title": "Research Summary",
+      "prompt": "Provide a comprehensive summary of [topic] including: background information, current state, key stakeholders, and future trends.",
+      "use_case": "Research and analysis",
+      "tags": ["research", "summary", "analysis"]
+    },
+    {
+      "id": "inter_008",
+      "title": "Feedback Structure",
+      "prompt": "Give constructive feedback on the following work: [content]. Use the sandwich method: start with positives, provide specific improvement suggestions, and end with encouragement.",
+      "use_case": "Performance feedback",
+      "tags": ["feedback", "improvement", "communication"]
+    },
+    {
+      "id": "inter_009",
+      "title": "Case Study Analysis",
+      "prompt": "Analyze the following case study: [case description]. Identify the main challenges, evaluate the decisions made, and suggest alternative approaches.",
+      "use_case": "Business analysis",
+      "tags": ["case study", "business", "analysis"]
+    },
+    {
+      "id": "inter_010",
+      "title": "Learning Path",
+      "prompt": "Create a learning path for mastering [skill/topic]. Include: prerequisites, recommended resources, practice exercises, and milestones for tracking progress.",
+      "use_case": "Educational planning",
+      "tags": ["learning", "education", "planning"]
+    },
+    {
+      "id": "inter_011",
+      "title": "SWOT Analysis",
+      "prompt": "Conduct a SWOT analysis for [project/business/idea]. Provide at least 3 points for each category: Strengths, Weaknesses, Opportunities, and Threats.",
+      "use_case": "Strategic planning",
+      "tags": ["SWOT", "strategy", "planning"]
+    },
+    {
+      "id": "inter_012",
+      "title": "Content Outline",
+      "prompt": "Create a detailed outline for an article/blog post about [topic]. Include main sections, subsections, and key points to cover in each.",
+      "use_case": "Content planning",
+      "tags": ["outline", "content", "writing"]
+    },
+    {
+      "id": "inter_013",
+      "title": "Interview Questions",
+      "prompt": "Generate 10 interview questions for a [job title] position. Include a mix of technical, behavioral, and situational questions.",
+      "use_case": "Hiring and recruitment",
+      "tags": ["interview", "hiring", "HR"]
+    },
+    {
+      "id": "inter_014",
+      "title": "Product Description",
+      "prompt": "Write a compelling product description for [product name]. Include: key features, benefits, target audience, and a call to action.",
+      "use_case": "Marketing copy",
+      "tags": ["marketing", "product", "copywriting"]
+    },
+    {
+      "id": "inter_015",
+      "title": "FAQ Generation",
+      "prompt": "Create a comprehensive FAQ section for [product/service]. Include at least 10 common questions with detailed answers.",
+      "use_case": "Customer support",
+      "tags": ["FAQ", "support", "customer service"]
+    }
+  ]
+}
