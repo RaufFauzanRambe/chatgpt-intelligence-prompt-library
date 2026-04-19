@@ -1,0 +1,147 @@
+{
+  "category": "reasoning",
+  "level": "all levels",
+  "description": "Prompts designed to test and develop logical reasoning, critical thinking, and analytical skills",
+  "prompts": [
+    {
+      "id": "reason_001",
+      "title": "Logical Syllogism",
+      "prompt": "Analyze the following syllogism and determine if the conclusion is valid: Premise 1: [premise], Premise 2: [premise], Conclusion: [conclusion]. Explain your reasoning step by step.",
+      "use_case": "Logical analysis",
+      "tags": ["logic", "syllogism", "deduction"]
+    },
+    {
+      "id": "reason_002",
+      "title": "Causal Analysis",
+      "prompt": "Analyze the causal relationship between [event A] and [event B]. Consider alternative explanations, confounding variables, and the strength of the causal link.",
+      "use_case": "Causal reasoning",
+      "tags": ["causality", "analysis", "correlation"]
+    },
+    {
+      "id": "reason_003",
+      "title": "Argument Evaluation",
+      "prompt": "Evaluate the following argument for logical fallacies, soundness, and validity: [argument]. Identify any weaknesses and suggest improvements.",
+      "use_case": "Critical thinking",
+      "tags": ["argument", "fallacies", "critical thinking"]
+    },
+    {
+      "id": "reason_004",
+      "title": "Deductive Reasoning Problem",
+      "prompt": "Solve the following deductive reasoning problem step by step: [problem]. Show your reasoning process and explain each logical step.",
+      "use_case": "Deductive reasoning",
+      "tags": ["deduction", "problem solving", "logic"]
+    },
+    {
+      "id": "reason_005",
+      "title": "Inductive Pattern Recognition",
+      "prompt": "Given the following examples: [examples], identify the pattern and predict what comes next. Explain your reasoning and the rules you identified.",
+      "use_case": "Pattern recognition",
+      "tags": ["induction", "pattern", "prediction"]
+    },
+    {
+      "id": "reason_006",
+      "title": "Counterargument Generation",
+      "prompt": "Generate the strongest possible counterargument to the following claim: [claim]. Consider multiple perspectives and address potential objections to your counterargument.",
+      "use_case": "Debate preparation",
+      "tags": ["counterargument", "debate", "perspective"]
+    },
+    {
+      "id": "reason_007",
+      "title": "Ethical Dilemma Analysis",
+      "prompt": "Analyze the following ethical dilemma using multiple ethical frameworks (utilitarianism, deontology, virtue ethics): [dilemma]. Compare the conclusions reached by each framework.",
+      "use_case": "Ethical reasoning",
+      "tags": ["ethics", "philosophy", "moral reasoning"]
+    },
+    {
+      "id": "reason_008",
+      "title": "Probabilistic Reasoning",
+      "prompt": "Calculate the probability of [event] given the following information: [information]. Show your work and explain the probability concepts used.",
+      "use_case": "Probability analysis",
+      "tags": ["probability", "statistics", "calculation"]
+    },
+    {
+      "id": "reason_009",
+      "title": "Analogical Reasoning",
+      "prompt": "Analyze the following analogy: [A is to B as C is to ?]. Explain why the analogy works or doesn't work, and discuss the relevant similarities and differences.",
+      "use_case": "Analogical thinking",
+      "tags": ["analogy", "comparison", "reasoning"]
+    },
+    {
+      "id": "reason_010",
+      "title": "Decision Tree Analysis",
+      "prompt": "Create a decision tree analysis for the following decision: [decision scenario]. Include probabilities, outcomes, expected values, and a recommended course of action.",
+      "use_case": "Decision analysis",
+      "tags": ["decision tree", "expected value", "analysis"]
+    },
+    {
+      "id": "reason_011",
+      "title": "Scientific Hypothesis Testing",
+      "prompt": "Design an experiment to test the hypothesis: [hypothesis]. Include: variables, controls, methodology, potential confounds, and how results would support or refute the hypothesis.",
+      "use_case": "Scientific reasoning",
+      "tags": ["scientific method", "hypothesis", "experiment"]
+    },
+    {
+      "id": "reason_012",
+      "title": "Logical Paradox Analysis",
+      "prompt": "Analyze the following logical paradox: [paradox]. Explain why it's paradoxical, discuss proposed solutions, and evaluate which solution is most compelling.",
+      "use_case": "Philosophical reasoning",
+      "tags": ["paradox", "philosophy", "logic"]
+    },
+    {
+      "id": "reason_013",
+      "title": "Root Cause Analysis",
+      "prompt": "Perform a root cause analysis for the following problem: [problem]. Use the 5 Whys technique and fishbone diagram approach to identify underlying causes.",
+      "use_case": "Problem analysis",
+      "tags": ["root cause", "problem solving", "analysis"]
+    },
+    {
+      "id": "reason_014",
+      "title": "Game Theory Scenario",
+      "prompt": "Analyze the following scenario using game theory: [scenario]. Identify players, strategies, payoffs, and determine the Nash equilibrium if one exists.",
+      "use_case": "Game theory",
+      "tags": ["game theory", "strategy", "economics"]
+    },
+    {
+      "id": "reason_015",
+      "title": "Bias Detection",
+      "prompt": "Identify potential cognitive biases in the following reasoning/argument: [content]. Explain each bias, how it affects the reasoning, and how to mitigate it.",
+      "use_case": "Bias analysis",
+      "tags": ["bias", "cognitive", "critical thinking"]
+    },
+    {
+      "id": "reason_016",
+      "title": "Conditional Logic Problem",
+      "prompt": "Solve the following conditional logic problem: If [condition A], then [result A]. If [condition B], then [result B]. Given that [situation], what can you conclude? Show your reasoning.",
+      "use_case": "Conditional reasoning",
+      "tags": ["conditional", "logic", "if-then"]
+    },
+    {
+      "id": "reason_017",
+      "title": "Bayesian Reasoning",
+      "prompt": "Apply Bayesian reasoning to update the probability of [hypothesis] given new evidence: [evidence]. Show the prior probability, likelihood, and posterior probability calculations.",
+      "use_case": "Bayesian analysis",
+      "tags": ["Bayesian", "probability", "evidence"]
+    },
+    {
+      "id": "reason_018",
+      "title": "Systems Thinking Analysis",
+      "prompt": "Analyze [system/situation] using systems thinking. Identify feedback loops, stocks and flows, leverage points, and unintended consequences of interventions.",
+      "use_case": "Systems analysis",
+      "tags": ["systems thinking", "complexity", "feedback"]
+    },
+    {
+      "id": "reason_019",
+      "title": "Abductive Reasoning",
+      "prompt": "Given the observations: [observations], generate the most likely explanation using abductive reasoning. Consider multiple hypotheses and explain why one is the best explanation.",
+      "use_case": "Abductive reasoning",
+      "tags": ["abduction", "inference", "explanation"]
+    },
+    {
+      "id": "reason_020",
+      "title": "Logical Consistency Check",
+      "prompt": "Check the following set of statements for logical consistency: [statements]. If inconsistencies exist, identify them and suggest modifications to achieve consistency.",
+      "use_case": "Consistency analysis",
+      "tags": ["consistency", "logic", "contradiction"]
+    }
+  ]
+}
